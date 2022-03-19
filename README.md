@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @K-kibet
-- 👀 I’m interested in technology.And I am always open to new ideas.
-- 🌱 I’m am a full stack developer. 
-- 💞️ I’m looking to collaborate on various programmes with my colleagues.
+- 👀 I’m interested in technology and internet.And I am always open to new ideas.
+- 🌱 I’m am a web developer. 
+- 💞️ I’m looking forward to collaborating and finding new connections.
 - 📫 How to reach me; email; 
 
 <!---
