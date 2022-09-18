@@ -166,6 +166,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Python date in 3 lines of code](https://www.youtube.com/watch?v=5F-rWtjI7AM)
+- [Software skills documentation website -a react and firebase project to document programming language](https://www.youtube.com/watch?v=E6u0c0YCYfk)
+- [Exercise v3.0](https://www.youtube.com/watch?v=BZpGb_XX-rM)
+- [Exercise v3.0](https://www.youtube.com/watch?v=IW3ij5QBWRs)
+- [HackerRank Question - FizzBuzz](https://www.youtube.com/watch?v=xWzoCEmOWII)
 <!-- YOUTUBE:END -->
 
 
