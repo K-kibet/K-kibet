@@ -3,7 +3,7 @@
 - 💞️ I’m looking forward to collaborating and landing my first job.
 - I'm currently working on tech documentation website
 - I'm currently learning graphql 
-- 📫 Reach to me using this link [https://k-kibet.github.io]
+- 📫 Reach to me using this link https://k-kibet.github.io
 - ⚙️ I am skilled in: javascript, reactJS, HTML5, CSS3, jQuery, Bootstrap, NodeJS and Linux
 
 ### Connect with me:
