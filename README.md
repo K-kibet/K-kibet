@@ -34,26 +34,21 @@
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/html.png" />][website]
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/c.png" />][website]
-
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/css.webp" />][website]
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" />][website]
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/PHP-logo.svg.png" />][website]
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/c.png" />][website]
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/flutter.png" />][website]
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/git.png" />][website]
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/python.png" />][website]
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/linux.png" />][website]
+
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/terminal.png" />][website]
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/kotlin.png" />][website]
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/java.png" />][website]
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/go.png" />][website]
-
-[<img alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/dart.png" />][website]
-
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/Bootstrap_logo.svg.png" />][website]
 
@@ -62,6 +57,34 @@
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/sass.png" />][website]
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/semantic.webp" />][website]
+
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/firebase.png" />][website]
+
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/jquery.gif" />][website]
+
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/babel.png" />][website]
+
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/framer.png" />][website]
+
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/node1.png" />][website]
+
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/express.png" />][website]
+
+<!--
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/PHP-logo.svg.png" />][website]
+
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/flutter.png" />][website]
+
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/python.png" />][website] -->
+
+
+
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/go.png" />][website]
+
+[<img alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/dart.png" />][website]
+
+
+
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/redux.png" />][website]
 
@@ -78,34 +101,19 @@
 [<img alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/ionic.png" />][website]
 
 
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/node1.png" />][website]
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/express.png" />][website]
-
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/graphql.png" />][website]
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/spring.png" />][website]
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/mysql.png" />][website]
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/firebase.png" />][website]
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/jquery.gif" />][website]
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/babel.png" />][website]
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/framer.png" />][website]
 
 [<img alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/xml.png" />][website]
+<!--
 
 
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/git.png" />][website]
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/linux.png" />][website]
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/terminal.png" />][website]
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/bash.png" />][website]
 
@@ -120,7 +128,7 @@
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/pwa.png" />][website]
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/npm.png" />][website]
-
+-->
 
 <br />
 <br />
