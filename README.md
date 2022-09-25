@@ -171,6 +171,8 @@
 
 <br />
 <br />
+![daily.dev](https://api.daily.dev/devcards/25787dbf14ba4ce79e7c2f051faa80bd.png?r=r1x)
+<br/> 
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
