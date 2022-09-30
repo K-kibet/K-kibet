@@ -101,6 +101,7 @@
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
+
 <br />
 <br/>
 
@@ -127,6 +128,9 @@
 <br/>
 <br/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-kibet&layout=compact" />
+ 
+<!--START_SECTION:waka-->
+<!--ENDS_SECTION:waka-->
 <br />
 <br />
 
