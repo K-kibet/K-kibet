@@ -124,15 +124,9 @@
 
 [<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/devrant.png" />][devrant]
 
-
 <br/>
 <br/>
-
-![NAME github stats](https://github-readme-stats.vercel.app/apiusername=K-kibet&show_icons=true&theme=radical)
-
-<br/>
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-kibet&layout=compact)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-kibet&layout=compact" />
 <br />
 <br />
 
