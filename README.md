@@ -31,104 +31,54 @@
 <br />
 
 ### Languages and Tools
+<p float="left">
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/html.png" />][website]
+<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/html.png" />
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/css.webp" />][website]
+<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/css.webp" />
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" />][website]
+<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" />
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/c.png" />][website]
+<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/c.png" />
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/python.png" />][website]
+<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/python.png" />
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/kotlin.png" />][website]
+<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/kotlin.png" />
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/java.png" />][website]
+<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/java.png" />
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/jquery.gif" />][website]
+<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/node1.png" />
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/node1.png" />][website]
+<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/linux.png" />
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/express.png" />][website]
+</p>
 
-[<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/linux.png" />][website]
+<br>
 
+<p float="left">
 
+<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/Bootstrap_logo.svg.png" />
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/Bootstrap_logo.svg.png" />][website]
+<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/mui.png" />
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/mui.png" />][website]
+<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/sass.png" />
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/sass.png" />][website]
+<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/semantic.webp" />
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/semantic.webp" />][website]
+<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/redux.png" />
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/redux.png" />][website]
+<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/git.png" />
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/git.png" />][website]
+<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/terminal.png" />
 
+<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/firebase.png" />
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/terminal.png" />][website]
+<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/next.png" />
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/firebase.png" />][website]
+<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/mysql.png" />
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/babel.png" />][website]
+</p>
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/framer.png" />][website]
-
-<!--
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/go.png" />][website]
-
-[<img alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/dart.png" />][website]
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/typescript.png" />][website]
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/PHP-logo.svg.png" />][website]
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/flutter.png" />][website]
-
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/preact.png" />][website]
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/sveltekit.png" />][website]
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/Electron_Software_Framework_Logo.svg.png" />][website]
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/next.png" />][website]
-
-[<img alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/ionic.png" />][website]
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/graphql.png" />][website]
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/spring.png" />][website]
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/mysql.png" />][website]
-
-
-
-[<img alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/xml.png" />][website]
-
-
-
-
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/bash.png" />][website]
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/docker.png" />][website]
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/ansible.png" />][website]
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/aws.png" />][website]
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/702308.png" />][website]
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/pwa.png" />][website]
-
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/npm.png" />][website]
-
--->
 
 <br />
 <br />
@@ -145,6 +95,11 @@
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/guru.png" />][guru]
 
 [<img alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/latium.png" />][latium]
+
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
+</a>
 
 <br />
 <br/>
@@ -169,10 +124,17 @@
 
 [<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/devrant.png" />][devrant]
 
+
+<br/>
+<br/>
+
+![NAME github stats](https://github-readme-stats.vercel.app/apiusername=K-kibet&show_icons=true&theme=radical)
+
+<br/>
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-kibet&layout=compact)
 <br />
 <br />
-![daily.dev](https://api.daily.dev/devcards/25787dbf14ba4ce79e7c2f051faa80bd.png?r=r1x)
-<br/> 
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -188,6 +150,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Welcome to my space](https://dev.to/kkibet/welcome-to-my-space-511l)
 <!-- BLOG-POST-LIST:END -->
+
 
 
 [website]: https://k-kibet.github.io/
