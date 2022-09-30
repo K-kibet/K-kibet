@@ -4,13 +4,12 @@ on:
   schedule:
     #Runs every 4 hours
     - cron: '0 */4 * * *'
-
   workflow_dispatch:
 
 jobs:
   update-readme:
     name: Update Readme with Metrics
-    runs_on: ubuntu-latest 
+    runs-on: ubuntu-latest 
 
     steps:
       - uses: anmo1098/waka-readme-stats@master
