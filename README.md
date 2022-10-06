@@ -98,7 +98,7 @@
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Konrad Zuse is the inventor of the first programmable computer in the world. He did it in 1936 and named the computer as Z1. Konrad Zuse❞</i>
+<i>❝“Yes, we have a dress code. You have to dress.”— Scott McNealy, co-founder of Sun Microsystems   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
