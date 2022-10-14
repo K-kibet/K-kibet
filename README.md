@@ -137,11 +137,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [see how the crowd reacted to Kibaki&#39;s joke](https://www.youtube.com/watch?v=Q1tOi5HuIGo)
 - [Python date in 3 lines of code](https://www.youtube.com/watch?v=5F-rWtjI7AM)
 - [Software skills documentation website -a react and firebase project to document programming language](https://www.youtube.com/watch?v=E6u0c0YCYfk)
 - [Exercise v3.0](https://www.youtube.com/watch?v=BZpGb_XX-rM)
 - [Exercise v3.0](https://www.youtube.com/watch?v=IW3ij5QBWRs)
-- [HackerRank Question - FizzBuzz](https://www.youtube.com/watch?v=xWzoCEmOWII)
 <!-- YOUTUBE:END -->
 
 
