@@ -94,8 +94,6 @@
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/guru.png" />][guru]
 
-[<img alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/latium.png" />][latium]
-
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝“XML is not a language in the sense of a programming language any more than sketches on a napkin are a language.”— Charles Simonyi   ❞</i>
@@ -122,9 +120,6 @@
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/dailydev.webp" />][daily.dev]
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/forem.png" />][forem]
-
-[<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/devrant.png" />][devrant]
 
 <br/>
 <br/>
@@ -168,7 +163,6 @@
 [truelancer]: https://www.truelancer.com/freelancer/charleskibet
 [freelancer]: https://www.freelancer.com/u/KibetK
 [guru]: https://www.guru.com/freelancers/charles-kibet
-[latium]: https://latium.org/welcome?welcome_id=K4eo1qN2
 
 
 
@@ -179,8 +173,6 @@
 [hashnode]: https://hashnode.com/@Kkibet
 [freecodecamp]: https://www.freecodecamp.org/kkibet
 [blogger]: https://codespeardev.blogspot.com/
-[devrant]: https://devrant.com/users/kkibet
-[forem]: https://www.forem.com/
 
 <!---
 K-kibet/K-kibet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
