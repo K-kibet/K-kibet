@@ -136,7 +136,7 @@
 - [I created a command Line Javascript game for developers in nodejs - check out](https://www.youtube.com/watch?v=JLWmdWK1f_Q)
 - [see how the crowd reacted to Kibaki&#39;s joke](https://www.youtube.com/watch?v=Q1tOi5HuIGo)
 - [Python date in 3 lines of code](https://www.youtube.com/watch?v=5F-rWtjI7AM)
-- [Software skills documentation website -a react and firebase project to document programming language](https://www.youtube.com/watch?v=E6u0c0YCYfk)
+- [Codespear Live Stream](https://www.youtube.com/watch?v=W7rkFliQaMs)
 <!-- YOUTUBE:END -->
 
 
