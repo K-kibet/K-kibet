@@ -132,11 +132,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [#babu #babuowino #kenyanews #kenyapolitics #new #funnyvideos](https://www.youtube.com/watch?v=upZpTcq2Mvg)
 - [programming tips and tricks](https://www.youtube.com/watch?v=UObeKXpuXlA)
 - [I created a command Line Javascript game for developers in nodejs - check out](https://www.youtube.com/watch?v=JLWmdWK1f_Q)
 - [see how the crowd reacted to Kibaki&#39;s joke](https://www.youtube.com/watch?v=Q1tOi5HuIGo)
 - [Python date in 3 lines of code](https://www.youtube.com/watch?v=5F-rWtjI7AM)
-- [Codespear Live Stream](https://www.youtube.com/watch?v=W7rkFliQaMs)
 <!-- YOUTUBE:END -->
 
 
