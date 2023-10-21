@@ -1,10 +1,10 @@
 ### 👋 Hi there, I am Kibet 
-- 🌱 I’m am a full stack engineer.
+- 🌱 I’m am a full stack software engineer.
 - 💞️ I’m looking forward to collaborating and landing my first job.
-- I'm currently working on tech documentation website
+- I'm currently working on ML project 
 - I'm currently learning graphql 
 - 📫 Reach to me using this link https://k-kibet.github.io
-- ⚙️ I am skilled in: javascript, reactJS, HTML5, CSS3, jQuery, Bootstrap, NodeJS and Linux
+- ⚙️ I am skilled in: javascript, reactJS, HTML5, CSS3, jQuery, Bootstrap, NodeJS and Linux, Kotlin, java & android app development, pwa and more...
 
 ### Connect with me:
 
