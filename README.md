@@ -113,6 +113,7 @@
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/dailydev.webp" />][daily.dev]
 
+<br />
 <hr/>
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=K-kibet&show_icons=true&locale=en&layout=compact" alt="K-kibet" /></p>
