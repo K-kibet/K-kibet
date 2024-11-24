@@ -12,13 +12,9 @@
 - ⚡ Fun fact **I am social**
 
 
-
 ### Connect with me:
-
 [<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/web.png" />][website]
-
 <!--[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/facebook.png" />][facebook]-->
-
 [<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/twitter.png" />][twitter]
 
 [<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/instagram.png" />][instagram]
@@ -26,8 +22,6 @@
 [<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/linkedin.png" />][linkedin]
 
 <!--[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/dribble.png" />][dribble]-->
-
-<br />
 <br />
 
 ### Languages and Tools
@@ -53,7 +47,6 @@
 
 </p>
 
-<br>
 
 <p float="left">
 
@@ -120,15 +113,12 @@
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/dailydev.webp" />][daily.dev]
 
+<hr/>
 
-<br/>
-<br/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-kibet&layout=compact" />
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=K-kibet&show_icons=true&locale=en&layout=compact" alt="K-kibet" /></p>
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=K-kibet&show_icons=true&locale=en" alt="K-kibet" /></p>
- 
 <!--START_SECTION:waka-->
 <!--ENDS_SECTION:waka-->
-<br />
 <br />
 
 <!--### 📺 Latest YouTube Videos-->
@@ -140,13 +130,10 @@
 - [Python date in 3 lines of code](https://www.youtube.com/watch?v=5F-rWtjI7AM) -->
 <!-- YOUTUBE:END -->
 
-
 <!--### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START 
 - [Welcome to my space](https://dev.to/kkibet/welcome-to-my-space-511l)-->
 <!-- BLOG-POST-LIST:END -->
-
-
 
 [website]: https://k-kibet.github.io/
 [facebook]: https://www.facebook.com/kibetkorirc
@@ -161,8 +148,6 @@
 [truelancer]: https://www.truelancer.com/freelancer/charleskibet
 [freelancer]: https://www.freelancer.com/u/KibetK
 [guru]: https://www.guru.com/freelancers/charles-kibet-->
-
-
 
 [dev.to]:https://dev.to/kkibet
 [medium]: 	https://medium.com/@kkibet
