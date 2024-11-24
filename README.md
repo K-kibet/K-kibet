@@ -117,7 +117,7 @@
 <hr/>
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=K-kibet&show_icons=true&locale=en&layout=compact" alt="K-kibet" /></p>
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=K-kibet&show_icons=true&locale=en" alt="K-kibet" /></p>
+ <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=K-kibet&show_icons=true&locale=en" alt="K-kibet" /></p>-->
 <!--START_SECTION:waka-->
 <!--ENDS_SECTION:waka-->
 <br />
