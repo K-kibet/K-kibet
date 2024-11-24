@@ -150,7 +150,7 @@
 [website]: https://k-kibet.github.io/
 [facebook]: https://www.facebook.com/kibetkorirc
 [twitter]: https://twitter.com/ancientpupy
-[instagram]: https://www.instagram.com/ancientpupy/
+[instagram]: https://www.instagram.com/codespear/
 [linkedin]: https://www.linkedin.com/in/kibetkorir
 [dribble]: https://dribbble.com/ancientpupy/about
 [youtubechannel]: https://www.youtube.com/channel/UCGuHbwfZ2JHMDBpDLGtQhjQ
