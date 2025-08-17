@@ -89,7 +89,7 @@
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝More than 80% of the emails sent daily are spams.❞</i>
+<i>❝“The best way to learn data science is to do data science.”— Chanin Nantasenamat❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
