@@ -89,7 +89,7 @@
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The best way to learn data science is to do data science.”— Chanin Nantasenamat❞</i>
+<i>❝The term “World Wide Web” was invented by Tim Berners in 1990.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
