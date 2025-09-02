@@ -134,7 +134,7 @@
 <!--### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START 
 - [Welcome to my space](https://dev.to/kkibet/welcome-to-my-space-511l)-->
-- [Welcome to my space](https://dev.to/kkibet/welcome-to-my-space-511l)
+- [Welcome to my space](https://forem.com/kkibet/welcome-to-my-space-511l)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://k-kibet.github.io/
