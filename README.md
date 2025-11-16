@@ -134,6 +134,7 @@
 <!--### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START 
 - [Welcome to my space](https://dev.to/kkibet/welcome-to-my-space-511l)-->
+- [Building a Fully-Featured Custom WebView App in Android: Complete Guide](https://dev.to/kkibet/building-a-fully-featured-custom-webview-app-in-android-complete-guide-4lof)
 - [Welcome to my space](https://dev.to/kkibet/welcome-to-my-space-511l)
 <!-- BLOG-POST-LIST:END -->
 
