@@ -134,11 +134,11 @@
 <!--### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START 
 - [Welcome to my space](https://dev.to/kkibet/welcome-to-my-space-511l)-->
-- [📦 Managing Multiple Projects in One Repository: Submodules, Subtrees, Monorepos &amp; Partial Cloning Explained](https://dev.to/k-kibet/managing-multiple-projects-in-one-repository-submodules-subtrees-monorepos-partial-cloning-21mc)
-- [How to Wipe Your Git History: A Complete Guide to Removing All Previous Commits](https://dev.to/kkibet/how-to-wipe-your-git-history-a-complete-guide-to-removing-all-previous-commits-1gk7)
-- [Solving Git Authentication Failures: &quot;Password authentication is not supported&quot; Error](https://dev.to/kkibet/solving-git-authentication-failures-password-authentication-is-not-supported-error-n96)
-- [The Complete Guide to Working with Single Folders in Multi-Project GitHub Repositories](https://dev.to/kkibet/the-complete-guide-to-working-with-single-folders-in-multi-project-github-repositories-2ed5)
-- [Where to Host Your Web App: A Complete Guide to Platforms](https://dev.to/kkibet/where-to-host-your-web-app-a-complete-guide-to-platforms-3hc)
+- [How to Remove All Git Commits Locally Without Losing Your Code](https://dev.to/k-kibet/how-to-remove-all-git-commits-locally-without-losing-your-code-1pde)
+- [🧹 How to Clear Cache in Windows Using PowerShell &lpar;Complete Guide&rpar;](https://dev.to/k-kibet/how-to-clear-cache-in-windows-using-powershell-complete-guide-419n)
+- [How to Connect Your Namecheap Domain to a Render App &lpar;Step-by-Step Guide&rpar;](https://dev.to/k-kibet/how-to-connect-your-namecheap-domain-to-a-render-app-step-by-step-guide-254j)
+- [🔥 How to Generate a JKS Keystore Without Android Studio &lpar;Complete Guide&rpar;](https://dev.to/k-kibet/how-to-generate-a-jks-keystore-without-android-studio-complete-guide-36do)
+- [How to fix: “less than 1MB free space&quot; Warning](https://dev.to/kkibet/how-to-fix-less-than-1mb-free-space-warning-4lhg)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://k-kibet.github.io/
