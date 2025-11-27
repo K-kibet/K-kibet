@@ -134,11 +134,11 @@
 <!--### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START 
 - [Welcome to my space](https://dev.to/kkibet/welcome-to-my-space-511l)-->
+- [Terminal commands to check Git remote configurations](https://dev.to/kkibet/terminal-commands-to-check-git-remote-configurations-2b90)
 - [How to Remove All Git Commits Locally Without Losing Your Code](https://dev.to/k-kibet/how-to-remove-all-git-commits-locally-without-losing-your-code-1pde)
 - [🧹 How to Clear Cache in Windows Using PowerShell &lpar;Complete Guide&rpar;](https://dev.to/k-kibet/how-to-clear-cache-in-windows-using-powershell-complete-guide-419n)
 - [How to Connect Your Namecheap Domain to a Render App &lpar;Step-by-Step Guide&rpar;](https://dev.to/k-kibet/how-to-connect-your-namecheap-domain-to-a-render-app-step-by-step-guide-254j)
 - [🔥 How to Generate a JKS Keystore Without Android Studio &lpar;Complete Guide&rpar;](https://dev.to/k-kibet/how-to-generate-a-jks-keystore-without-android-studio-complete-guide-36do)
-- [How to fix: “less than 1MB free space&quot; Warning](https://dev.to/kkibet/how-to-fix-less-than-1mb-free-space-warning-4lhg)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://k-kibet.github.io/
