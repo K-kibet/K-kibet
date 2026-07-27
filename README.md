@@ -134,11 +134,11 @@
 <!--### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START 
 - [Welcome to my space](https://dev.to/kkibet/welcome-to-my-space-511l)-->
+- [Complete Guide: Transferring Firestore Data Between Databases &lpar;Including Subcollections&rpar;](https://dev.to/kkibet/complete-guide-transferring-firestore-data-between-databases-including-subcollections-3dka)
 - [Bits vs. Bytes: The Digital DNA You Need to Understand &lpar;Before Your Internet Bill Confuses You Again&rpar;](https://dev.to/kkibet/bits-vs-bytes-the-digital-dna-you-need-to-understand-before-your-internet-bill-confuses-you-10oo)
 - [The Ultimate Guide to Android App Decompilation: Tools, Techniques, and Best Practices](https://dev.to/kkibet/the-ultimate-guide-to-android-app-decompilation-tools-techniques-and-best-practices-45cl)
 - [Comprehensive Guide to Python Frameworks &amp; Libraries](https://dev.to/kkibet/comprehensive-guide-to-python-frameworks-libraries-2m36)
 - [Python Fundamentals for a JavaScript Developer](https://dev.to/kkibet/python-fundamentals-for-a-javascript-developer-2mim)
-- [Fixing Git Push Error 403: Permission Denied - Complete Troubleshooting Guide](https://dev.to/kkibet/fixing-git-push-error-403-permission-denied-complete-troubleshooting-guide-1hl7)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://k-kibet.github.io/
