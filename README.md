@@ -89,7 +89,7 @@
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝HDMI charges its licensed manufacturers $10,000 per year plus $0.15 per cable, reduced to $0.05 if the HDMI logo is on the socket.❞</i>
+<i>❝When you’re all grown up and working and you use a computer each day, your hands would have traveled 12.6 miles (about 20km) per day!❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
